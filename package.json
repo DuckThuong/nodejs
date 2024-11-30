@@ -1,0 +1,29 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "duannodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DuckThuong/Node-Js.git"
+  },
+  "keywords": [
+    "duckthuong"
+  ],
+  "author": "duckthuong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DuckThuong/Node-Js/issues"
+  },
+  "homepage": "https://github.com/DuckThuong/Node-Js#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
